@@ -1,6 +1,12 @@
+title: [[insert site title here]]
+description: [The true meaning of Christmas]
+show_downloads: false
+google_analytics: [UA-126265112-1]
+
 collections:
   authors:
     output: true
+
 theme: jekyll-theme-cayman
 
 defaults:
@@ -8,7 +14,7 @@ defaults:
       path: ""
       type: "authors"
     values:
-      layout: "author"
+      layout: "my_author"
   - scope:
       path: ""
       type: "posts"
