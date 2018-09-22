@@ -17,4 +17,5 @@ from *_config.yml*: `theme: jekyll-theme-cayman`
 ### Notes
 ```
 gem 'github-pages', group: :jekyll_plugins
+gem 'jekyll-theme-cayman'
 ```
