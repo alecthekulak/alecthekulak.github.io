@@ -4,7 +4,13 @@ Site created using github.io and jekyll
 Site link: [click here](https://alecthekulak.github.io/)
 github hosted site
 
-To run: `bundle exec jekyll serve`
+To run (in command prompt, after navigating to site root folder):
+```
+bundle update
+bundle build
+bundle exec jekyll serve
+```
+(`jekyll serve` is an alternative to `bundle exec jekyll serve`)
 from *_config.yml*: `theme: jekyll-theme-cayman`
 
 
