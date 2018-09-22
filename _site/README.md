@@ -1,7 +1,7 @@
 # alecthekulak.github.io
 the .io
 
-Site link: [https://alecthekulak.github.io/](click here)
+Site link: [click here](https://alecthekulak.github.io/)
 github hosted site
 
 To run: `bundle exec jekyll serve`
