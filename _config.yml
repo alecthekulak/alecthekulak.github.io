@@ -2,3 +2,19 @@ collections:
   authors:
     output: true
 theme: jekyll-theme-cayman
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+    - scope:
+        path: ""
+      values:
+        layout: "default"
