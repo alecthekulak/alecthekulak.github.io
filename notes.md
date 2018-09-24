@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-Copied *default.html* from [https://github.com/pages-themes/cayman/blob/master/_layouts/default.html] to *_layouts*.  
+Copied *default.html* from <https://github.com/pages-themes/cayman/blob/master/_layouts/default.html> to *_layouts*.  
 
 Removed:
 ```html
