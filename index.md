@@ -3,20 +3,21 @@ layout: default
 title: Home
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Please pardon the appearence of this website, it is still a work-in-progress. 
+# Welcome to my website 
 
-[Link to another page](./notes.html).
+To learn more about me, please visit my [About Me](./about) page. 
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Website Info 
+This website is graciously hosted for free by [GitHub Pages](https://pages.github.com/) using the [Cayman theme](https://github.com/pages-themes/cayman) from the [Jekyll project](https://pages.github.com/themes/). 
+To view this repository, please click [here](https://github.com/alecthekulak/alecthekulak.github.io). To view my other GitHub repositories, click [here](https://github.com/alecthekulak?tab=repositories). 
 
-## Header 2
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not
+
+
+[Notes (for webdev use)](./notes.html).
+[Notes (for webdev use) #2 no html](./notes).
+[Notes (for webdev use) #2 w/ md](./notes.md).
