@@ -18,6 +18,6 @@ Find me on **LinkedIn**: [LinkedIn page](https://www.linkedin.com/in/alec-kulako
 
 Find me on **Kaggle**: [Kaggle profile](https://www.kaggle.com/alecthekulak). 'Expert' tier, current rank: 185/85,299. 
 
-Find me on **StackExchange**: [datascience.StackExchange profile](https://datascience.stackexchange.com/users/52212/) 
+Find me on **StackExchange**: [StackExchange profile](https://datascience.stackexchange.com/users/52212/) 
 
-Find me on **GitHub** (oh look, you're already here!): [Webpage](./index) or [view all repositories](https://github.com/alecthekulak)
+Find me on **GitHub** (oh look, you're already here): [GitHub Pages website](./index) or [view all repositories](https://github.com/alecthekulak)
