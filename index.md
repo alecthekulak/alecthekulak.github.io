@@ -6,7 +6,7 @@ title: Home
 Please pardon the appearence of this website, it is still a work-in-progress. 
 # Welcome to my website 
 
-To learn more about me, please visit my [About Me](./about) page. 
+To learn more about me, please visit my [About Me](./about.html) page. 
 
 
 
@@ -20,4 +20,3 @@ To view this repository, please click [here](https://github.com/alecthekulak/ale
 
 [Notes (for webdev use)](./notes.html).
 [Notes (for webdev use) #2 no html](./notes).
-[Notes (for webdev use) #2 w/ md](./notes.md).
