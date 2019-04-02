@@ -4,12 +4,18 @@ title: Home
 ---
 
 *Please pardon the appearence of this website, it is still a work-in-progress.* 
-# Welcome to my website 
 
+# Welcome to my website 
 To learn more about me, please visit my [About Me](./about) page or visit my [LinkedIn Profile](https://www.linkedin.com/in/alec-kulakowski/).
 
-To play my **Flappy Bird game** (still in progress) click [here](https://alecthekulak.github.io/flappy/) (not functioning properly on non-Chrome browsers). To view its repository on GitHub, click [here](https://github.com/alecthekulak/flappy). The goal is to design a Flappy Bird game (entierly from scratch, including the sprites) that works in a web browser (using the [p5.js project](https://p5js.org/)) and then to establish a machine-learning system to beat the game. Inspiration is drawn from [Srdjan Susnic](https://www.youtube.com/user/ssusnic) and [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) on YouTube. Should end up similar to a OpenAI Gym (they redid their website recently and there's no longer any profile pages, so I unfortunately can't link the performance of the models that I developed in the past). 
+# JavaScript Projects (works-in-progress)
+Both of these projects are still being worked on and should not be considered complete. Both were coded entierly by me using JavaScript and as well as [p5.js project](https://p5js.org/) packages. The projects are only confirmed to work well on desktop PCs running Google Chrome. 
 
+To play my **Flappy Bird game** click [here](https://alecthekulak.github.io/flappy/). To view its repository on GitHub, click [here](https://github.com/alecthekulak/flappy). Please pardon the appearence of my sprites, I'm no graphic designer. Project inspired by work by [Srdjan Susnic](https://www.youtube.com/user/ssusnic) and [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) on YouTube. 
+
+To play **Pong** click [here](https://alecthekulak.github.io/pong/). To view its repository on GitHub, click [here](https://github.com/alecthekulak/pong).
+
+The ultimate goal for both projects is to integrate ML/AI systems into each game. [Flappy Bird](https://alecthekulak.github.io/flappy/) includes a custom evolutionary algorithm that evolves AI birds (using neural networks) over multiple generations. For now, [Pong](https://alecthekulak.github.io/pong/) only has 'knowledge engineering'-style AI for the opponent, but I will be working on integrating a machine learning system to allow for predictions of where the ball will move. Should end up similar to a OpenAI Gym (they redid their website recently and there's no longer any profile pages, so I unfortunately can't link the performance of the models that I developed in the past). 
 
 ## Website Info 
 This website is graciously hosted for free by [GitHub Pages](https://pages.github.com/) using the [Cayman theme](https://github.com/pages-themes/cayman) from the [Jekyll project](https://pages.github.com/themes/). 
