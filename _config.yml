@@ -2,6 +2,9 @@ title: "Alec Kulakowski"
 description: false
 show_downloads: false
 google_analytics: [UA-126265112-1]
+site.url: aleckulakowski.me
+site.baseurl: aleckulakowski.me
+site.github.url: https://github.com/alecthekulak/
 
 collections:
   authors:

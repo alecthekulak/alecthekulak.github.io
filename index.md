@@ -1,9 +1,6 @@
 ---
 layout: default
 title: Home
-site.url: aleckulakowski.me
-site.baseurl: aleckulakowski.me
-site.github.url: https://github.com/alecthekulak/
 ---
 
 *Please pardon the appearence of this website, it is still a work-in-progress.* 
