@@ -9,7 +9,7 @@ title: Home
 To learn more about me, please visit my [About Me](./about) page or visit my [LinkedIn Profile](https://www.linkedin.com/in/alec-kulakowski/).
 
 # JavaScript Projects (works-in-progress)
-Both of these projects are still being worked on and should not be considered complete. Both were coded entierly by me using JavaScript and as well as [p5.js project](https://p5js.org/) packages. The projects are only confirmed to work well on desktop PCs running Google Chrome. 
+Both of these projects are *still being worked on and should not be considered complete*. Both were coded entierly by me using JavaScript and as well as [p5.js project](https://p5js.org/) packages. The projects are only confirmed to work well on desktop PCs running Google Chrome (p5.js doesn't interact well with FireFox, Safari, or mobile browsers).
 
 To play my **Flappy Bird game** click [here](https://alecthekulak.github.io/flappy/). To view its repository on GitHub, click [here](https://github.com/alecthekulak/flappy). Please pardon the appearence of my sprites, I'm no graphic designer. Project inspired by work by [Srdjan Susnic](https://www.youtube.com/user/ssusnic) and [Code Bullet](https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q) on YouTube. 
 
